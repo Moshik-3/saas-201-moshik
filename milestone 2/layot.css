@@ -1,0 +1,227 @@
+body{
+background: radial-gradient(circle,white,#585858);}
+h1
+{
+	
+color: #101010;
+	
+text-shadow: 1px 1px 2px grey;
+  
+font-size: 36px;
+	
+text-align: center;
+	
+padding: 20px;
+}
+
+
+
+
+.page{
+   	
+color:	white;
+	  
+background-color:#6b5b95 ;
+  	
+text-align: center;
+	  
+padding: 20px;
+	 
+ margin-left: 33% ;
+   
+ margin-right: 33% ;
+    
+margin-bottom: 40px ;
+    
+border-radius: 10px;
+  	
+font-family:"Times New Roman", Times, serif; 
+ 
+}
+
+ 
+
+
+.part2
+{
+	
+color:	white;
+	
+text-align: center;
+	
+padding: 20px;
+	
+margin-left:13%;
+  	
+margin-right: 13%;
+ 
+margin-top:40px;	
+margin-bottom: 10px;
+  	
+border-radius: 5px;
+  	
+font-family: 'Montserrat', sans-serif ;
+
+}
+
+
+
+.page a
+{
+	
+color: white;
+	
+font-size: 20px;
+  
+text-decoration: none;
+
+}
+
+
+
+.page a:hover{
+  
+font-size: 22px;
+
+
+}
+
+
+
+div
+{
+	
+text-align: center;
+
+}
+
+
+
+	
+
+.part1
+{
+	
+margin-top: 100px;
+	
+margin-left: 10%;
+
+}
+
+
+
+.part1 label  
+{
+
+display: block;
+
+padding-top: 20px;
+padding-bottom: 10px;
+
+font-size: 26px;
+
+font-weight: bold;
+
+font-family: 'Montserrat', sans-serif ;
+color: #102020;
+
+text-align: left;
+
+margin-left: 10%;
+
+}
+
+
+
+ 
+.part1 input[type="text"]{
+	
+width: 70%;
+	
+padding:10px;
+margin-bottom:30px;
+margin-right:8%;	
+border-radius: 5px;
+	
+border-style: none;
+	
+border: 2px #202020 solid;
+
+}
+
+
+
+
+.b1{
+
+  
+border: 1px #100000 solid;
+    
+padding-top: 10px ;
+
+  
+    padding-right: 15px;
+padding-left: 15px;
+padding-bottom: 10px;
+border-radius: 5px;
+    
+background-color:#777777;
+       
+   
+ color: black;
+ 
+font-family: 'Montserrat', sans-serif ;
+font-size: 18px; 
+margin-left: -12%;
+   
+text-decoration: none;
+
+
+}
+
+
+
+
+.b2{
+  
+border: 1.5px #202020 solid;
+    
+padding-top: 10px ;
+
+  
+    padding-right: 15px;
+padding-left: 15px;
+padding-bottom: 10px;
+ margin-left:50px; 
+    
+border-radius: 5px;
+    
+background-color:#20ba61;
+    
+cursor: pointer;
+    
+color: white;
+  
+font-family: 'Montserrat', sans-serif ;
+font-size: 18px; 
+}
+
+
+
+.department
+{
+  
+width: 72%;
+  
+padding: 10px;
+
+margin-right:8%;
+margin-bottom:30px;  
+border-radius: 5px;
+  
+border-style: none;
+  
+border: 2px #202020 solid;
+
+
+}
